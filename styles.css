@@ -1,0 +1,65 @@
+body{
+    
+    background-image: url(/pics/photo_2026-02-05_14-18-12.jpg);
+    background-size: cover; 
+    background-repeat: 
+}
+
+
+header{
+height: 100px;
+background-color: rgb(0, 113, 133);
+ border-radius: 20PX;
+
+}
+.head{
+float: right;
+
+}
+.parent{
+height:500px;
+background-color: white;
+padding-right: 200px;
+margin: 50px;
+display: flex;
+justify-content: space-evenly;
+align-items: center;
+background-image: url(pics/4.jpeg);
+border-radius: 30PX;
+border-color: black;
+
+}
+.logo{
+    width: 200px;
+    object-fit:cover;
+    float: left;
+}
+.items{
+height: 300px;
+width: 200px;
+background-color: rgb(0, 113, 133);
+margin: 50px;
+border-radius: 30px;
+padding: auto;
+box-shadow: 0 1.5REM 3REM -0.75REM HSLA(0,0%,0%,0.25);
+}
+.P{
+    text-align-last: center;
+}
+.im{
+    padding: auto;
+    height:200px ;
+    width: 200px;
+}
+.FOOTER{
+    background-color: rgb(0, 113, 133);
+     height: 200PX;
+     border-radius: 30px;
+     
+}
+.LOGO3{
+height: 200px;
+width: 200px;
+float: right;
+}
+
